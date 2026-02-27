@@ -1,1 +1,3 @@
-# Prueba-repository
+# Prueba-repository En este repositorio se usa para almacenar una base de datos de vuelos
+'''
+Vuelo|Tipo Aeronave|Pasajeros|Estado'''
